@@ -1,0 +1,33 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+   <file>./img/ave.png</file>
+   <file>./img/cdr.png</file>
+   <file>./img/check.png</file>
+   <file>./img/door.png</file>
+   <file>./img/door2.png</file>
+   <file>./img/exit.png</file>
+   <file>./img/exit2.png</file>
+   <file>./img/exit3.png</file>
+   <file>./img/file.png</file>
+   <file>./img/folder.png</file>
+   <file>./img/help.png</file>
+   <file>./img/hwp.png</file>
+   <file>./img/hwp2.png</file>
+   <file>./img/open.png</file>
+   <file>./img/refresh.png</file>
+   <file>./img/refresh2.png</file>
+   <file>./img/refresh3.png</file>
+   <file>./img/registry.png</file>
+   <file>./img/registry2.png</file>
+   <file>./img/registry3.png</file>
+   <file>./img/scan.png</file>
+   <file>./img/step.png</file>
+   <file>./img/step2.png</file>
+   <file>./img/step3.png</file>
+   <file>./img/title.png</file>
+   <file>./img/title2.png</file>
+   <file>./img/title3.png</file>
+   <file>./img/gray.png</file>
+   <file>./img/avemaria.png</file>
+</qresource>
+</RCC>
